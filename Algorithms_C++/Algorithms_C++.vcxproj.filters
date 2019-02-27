@@ -29,9 +29,6 @@
     <ClCompile Include="Linked_Lists.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Tees.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Strings_Arrays.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

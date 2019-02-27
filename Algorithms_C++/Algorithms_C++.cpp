@@ -3,10 +3,13 @@
 
 #include "pch.h"
 #include <iostream>
+#include "Strings_Arrays.cpp"
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
+    cout << "Hello World!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
