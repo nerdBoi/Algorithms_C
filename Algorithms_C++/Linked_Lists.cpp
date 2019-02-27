@@ -6,3 +6,5 @@ typedef struct ListNode{
 	ListNode(int x) : val(x), next(nullptr) {};
 } ListNode
 
+
+
