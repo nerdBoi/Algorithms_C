@@ -1,3 +1,6 @@
-﻿  Strings_Arrays.cpp
+﻿  Algorithms_C++.cpp
 c:\algorithms_c++\algorithms_c++\algorithms_c\algorithms_c++\strings_arrays.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  Strings_Arrays.cpp
+c:\algorithms_c++\algorithms_c++\algorithms_c\algorithms_c++\strings_arrays.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   Algorithms_C++.vcxproj -> C:\Algorithms_C++\Algorithms_C++\Algorithms_C\Debug\Algorithms_C++.exe
